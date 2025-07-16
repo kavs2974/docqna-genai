@@ -4,7 +4,8 @@ langchain
 langchain-community
 chromadb
 python-dotenv
-faiss-cpu
 PyPDF2
+faiss-cpu
 python-docx
 docx2txt
+tiktoken
