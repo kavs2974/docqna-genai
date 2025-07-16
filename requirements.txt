@@ -9,3 +9,5 @@ faiss-cpu
 python-docx
 docx2txt
 tiktoken
+pypdf
+
